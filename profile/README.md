@@ -8,7 +8,8 @@ We develop projects that bring DSP concepts to life, blending cutting-edge algor
 
 - Signal visualization and manipulation  
 - Audio and image processing  
-- Beamforming and advanced DSP techniques  
+- Beamforming and advanced DSP techniques
+- Filters design and application
 
 ## Featured Projects
 
